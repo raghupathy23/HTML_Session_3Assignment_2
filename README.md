@@ -1,2 +1,1 @@
-# HTML_Session_3Assignment_2
-HTML_Session_3Assignment_2
+Design a WordPress theme.
