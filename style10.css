@@ -1,0 +1,23 @@
+*{
+	margin:0;
+	padding: 0;
+}
+#container {
+	width: 960px;
+	margin: 0 auto;
+}
+.header {
+	background: #000;
+    height: 30px;
+}
+.upload { padding: 20px; }
+.upload input[type="submit"] {
+    padding: 5px 10px;
+    border-radius: 0;
+}
+.search { padding: 0 20px; }
+.search input[type="text"] { padding: 7px 0; }
+.search img { 
+	vertical-align: middle;
+    padding: 5px 5px;
+}
